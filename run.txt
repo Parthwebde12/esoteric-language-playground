@@ -1,0 +1,9 @@
+Run Brainfuck code using:
+
+1. Online interpreter:
+https://copy.sh/brainfuck/
+
+2. Or install CLI tools:
+- bf interpreter (varies by OS)
+
+3. Paste .bf file content and run
